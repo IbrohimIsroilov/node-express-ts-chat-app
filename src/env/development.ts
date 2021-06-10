@@ -1,8 +1,9 @@
 // development config
 
 export const envConfig: any = {
-    database: {
-        MONGODB_URI: 'mongodb://localhost:27017/',
-        MONGODB_DB_MAIN: 'dev_DB'
-    }
+  database: {
+    MONGODB_URI:
+      "mongodb+srv://1808707ii:1808707ii@cluster0.o23ru.mongodb.net/Capstone?retryWrites=true&w=majority",
+    MONGODB_DB_MAIN: "dev_DB",
+  },
 };
